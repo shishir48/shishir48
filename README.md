@@ -1,6 +1,4 @@
 - 👋 Hi, I’m shishir singh
-- 👀 I’m interested in full stack web apps using mern stack
-- 🌱 I’m currently learning Reactjs
 - 📫 How to reach me => shishirsingh48@yahoo.com
 
 <!---
